@@ -5,7 +5,6 @@
 #include "glew/GL/glew.h"
 #include "glm/glm.hpp"
 #include "tinyobjloader/tiny_obj_loader.h"
-#include "stb/stb_image.h"
 
 struct vertex
 {

@@ -1,5 +1,6 @@
 #include "render.h"
 #define STB_IMAGE_IMPLEMENTATION
+#include "stb/stb_image.h"
 
 geometry makeGeometry(vertex * verts, size_t vertCount, unsigned int * indices, size_t indxCount)
 {
